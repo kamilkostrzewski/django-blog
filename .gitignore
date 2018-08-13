@@ -105,3 +105,8 @@ venv.bak/
 
 # idea
 .idea/
+
+# ignore a file type
+*.json
+*.css
+*.js
